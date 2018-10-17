@@ -13,8 +13,15 @@ var chicken = {
 };
 
 function item(food) {
+  var
   food.push('saturated fats');
 }
 
 item(chicken);
 console.log(chicken.fats);
+
+
+git --version
+git config --list
+git config -- global user.name "cindy truong"
+git config --global user.email "email.com"
